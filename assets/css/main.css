@@ -278,7 +278,6 @@ h6 {
   background-size: cover;
   font-size: 14px;
   position: relative;
-  border-top: 0.5px solid rgba(255, 255, 255, 0.8);
 }
 
 .footer:before {
